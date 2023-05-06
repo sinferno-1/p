@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+<!-- import { useState, useEffect } from "react";
 import React, {useCallback, useMemo, useRef} from "react";
 import BottomSheet from "@gorhom/bottom-sheet";
 
@@ -191,3 +191,4 @@ const styles = StyleSheet.create({
     flexWrap: 'wrap'
   },
 });
+ -->
